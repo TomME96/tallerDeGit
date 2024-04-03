@@ -1,7 +1,8 @@
-<<<<<<< HEAD
-Buenos dìas
-=======
-Adios
->>>>>>> 8ac29d5733254670d0241423c26f3dc1b57bdd0d
+1
+2
+3
+4
+5
+
 
 Taller de Git de la materia "Introduccion a la Programacion" de la FCEyN - UBA.
